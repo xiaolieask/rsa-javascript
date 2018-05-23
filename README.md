@@ -6,4 +6,4 @@ npm i
 import RSA from 'RSA'
 RSA.setMaxDigits(130)
 RSA.RSAKeyPair(exponent,'',module)
-#没了，开始用吧
+# 没了，开始用吧
