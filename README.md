@@ -1,7 +1,7 @@
 # RSA-JS
 RSA-JS
 # NPM 下载包
-npm i
+npm i RSA-JS
 # 使用
 ```javascript
 import RSA from 'RSA'
