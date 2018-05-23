@@ -6,6 +6,7 @@ npm i
 ```javascript
 import RSA from 'RSA'
 RSA.setMaxDigits(130)
-RSA.RSAKeyPair(exponent,'',module)
+key = RSA.RSAKeyPair(exponent,'',module)
+RSA.encryptedString(key, 'register_pwd')
 ```
 # 没了，开始用吧
