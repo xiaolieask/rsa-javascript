@@ -1,13 +1,13 @@
 {
   "name": "rsa-js-java",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "'rsa for js, you can import it for your project'",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "rsa"
+    "rsa", "rsa-js-java", "rsa-js", "js加密", "java加密"
   ],
   "author": "xiaolie",
   "license": "ISC"
