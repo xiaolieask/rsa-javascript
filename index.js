@@ -2,4 +2,4 @@
 
 var RSA = require('./RSA');
 
-module.exports = { RSA };
+module.exports = RSA;
