@@ -635,10 +635,6 @@ function BarrettMu_modulo(x){
 }
 
 function BarrettMu_multiplyMod(x, y){
-	/*
-	x = this.modulo(x);
-	y = this.modulo(y);
-	*/
 	var xy = biMultiply(x, y);
 	return this.modulo(xy);
 }
@@ -660,5 +656,6 @@ function BarrettMu_powMod(x, y){
 module.exports = { 
   RSAKeyPair: RSAKeyPair,
   setMaxDigits: setMaxDigits,
-  encryptedString: encryptedString
+  encryptedString: encryptedString,
+  decryptedString: decryptedString
 };

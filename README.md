@@ -1,10 +1,10 @@
 # rsa-js-java
-rsa-js-java
+rsa-javascript
 # NPM 下载包
-npm i rsa-js-java --save-dev
+npm i rsa-javascript --save-dev
 # js使用 （加密）
 ```javascript
-import RSA from 'rsa-js-java'
+import RSA from 'rsa-javascript'
 RSA.setMaxDigits(130)
 key = new RSA.RSAKeyPair(10001,'','1e2qwe2we32qw35e4qw3e43qwe4qw3e')
 RSA.encryptedString(key, 'pwd') // 对你的密码加密处理 
@@ -22,4 +22,4 @@ try {
     throw new PersonUserException(PersonUserEnum.SESSION_TIMEOUT);
 }
 ```
-For detailed explanation on how things work, checkout the [docs for rsa-js-java](https://github.com/xiaolieask/rsa-js-java).
+For detailed explanation on how things work, checkout the [docs for rsa-javascript](https://github.com/xiaolieask/rsa-js-java).
