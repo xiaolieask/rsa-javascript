@@ -13,12 +13,12 @@ import java.util.UUID;
 /**
  * 安全键值、秘钥工具
  *
- * @author 作者:陈加敏 E-mail: 861421264@qq.com
- * @version 创建时间：2018年1月30日 上午9:35:50
+ * @author 作者:肖烈 E-mail: 760956257@qq.com
+ * @version 创建时间：2018年5月24日 上午10:35:50
  */
 public class SecurityKeyUtil {
 
-    private static final String SALT = "cjm12070817";
+    private static final String SALT = "asklie5588";
 
 
     /**
