@@ -1,4 +1,4 @@
-# rsa-js-java
+# rsa-javascript
 rsa-javascript
 # NPM 下载包
 npm i rsa-javascript --save-dev
